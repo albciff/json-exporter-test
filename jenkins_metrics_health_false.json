@@ -1,6 +1,6 @@
 {
 	"disk-space": {
-		"healthy": true,
+		"healthy": false,
 		"duration": 0,
 		"timestamp": "2023-06-30T12:13:00.778+02:00"
 	},
@@ -11,12 +11,12 @@
 		"timestamp": "2023-06-30T12:13:00.778+02:00"
 	},
 	"temporary-space": {
-		"healthy": true,
+		"healthy": false,
 		"duration": 0,
 		"timestamp": "2023-06-30T12:13:00.778+02:00"
 	},
 	"thread-deadlock": {
-		"healthy": true,
+		"healthy": false,
 		"duration": 0,
 		"timestamp": "2023-06-30T12:13:00.779+02:00"
 	}
